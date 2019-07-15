@@ -9,7 +9,9 @@ http://Netblix.ga
 
 
 
-《CANAIS ABERTOS>>>
+#####CANAIS ABERTOS#####
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",《Canais Abertos>>>
+http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais",Globo [480p]
 http://Link.aaaaqui
@@ -49,6 +51,8 @@ http://Link.aaaaqui
 
 
 《CANAIS FECHADOS>>>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",《Canais Fechados>>>
+http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
 http://Link.aaaaqui
