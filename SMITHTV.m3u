@@ -19,8 +19,11 @@ http://Link.aaaaqui
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais",Sbt [360p]
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais",Band [480p]
-http://Link.aaaaqui
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais",Band [360p] 
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais",Band [SD]
+https://5ad482a77183d.streamlock.net/suportesupersuportegmail.com/suportesupersuportegmail.com.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Canais",Rede Brasil [480p]
 http://Link.aaaaqui
@@ -35,7 +38,10 @@ http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais",Rede Tv [480p]
-http://Link.aaaaqui
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais",Rede Tv [SD]
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="Canais",Tve [480p]
 http://Link.aaaaqui
