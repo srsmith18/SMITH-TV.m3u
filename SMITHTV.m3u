@@ -10,7 +10,7 @@ http://Netblix.ga
 
 
 #####CANAIS ABERTOS#####
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",《Canais Abertos>>>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Canais",《Canais Abertos>>>
 http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais",Globo [480p]
@@ -51,7 +51,7 @@ http://Link.aaaaqui
 
 
 《CANAIS FECHADOS>>>
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",《Canais Fechados>>>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Canais",《Canais Fechados>>>
 http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
@@ -120,7 +120,7 @@ http://Link.aaaaqui
 
 《SÉRIES>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Séries",Título [480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Séries",Título [480p]
 http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Séries",Título [480p]
