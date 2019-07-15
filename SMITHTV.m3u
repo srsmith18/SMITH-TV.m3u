@@ -26,7 +26,10 @@ http://Link.aaaaqui
 http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Canais",Tv Cultura [480p]
-http://Link.aaaaqui
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais",Tv Futura [480p]
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais",Record [480p]
 http://Link.aaaaqui
