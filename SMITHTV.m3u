@@ -128,6 +128,9 @@ http://Link.aaaqui
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Canais",《Canais Religiosos>>>
 http://Link.religiosos
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2017/03/IURDTV.png" group-title="Canais",Iurd Tv [720p]
+http://wp.me/s6yetO-iurdtv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="Canais",IMPD TV [480p]
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
