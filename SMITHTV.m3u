@@ -49,6 +49,15 @@ http://Link.aaaaqui
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais",Tv Câmara [480p]
 http://Link.aaaaqui
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais",Canal Rural [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais",TV Gazeta [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/dBN229l.png" group-title="Canais",TV Diário [480p]
+http://Link.aaaaqui
+
 
 《CANAIS FECHADOS>>>
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Canais",《Canais Fechados>>>
@@ -82,6 +91,35 @@ http://Link.aaaaqui
 http://Link.aaaaqui
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
+http://Link.aaaaqui
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Canais",《Canais de Esportes>>>
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",Título [480p]
+http://Link.aaaaqui
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.irati.pr.leg.br/transparencia-1/icones-e-imagens/seta.png" group-title="Canais",《Canais Religiosos>>>
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="Canais",IMPD TV [480p]
+http://Link.aaaaqui
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/CxIuCFa.png" group-title="Canais",Rede Gospel [480p]
 http://Link.aaaaqui
 
 
